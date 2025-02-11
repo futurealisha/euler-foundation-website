@@ -46,6 +46,7 @@
         "euler-DAO/governance",
         "euler-DAO/treasury",
         "euler-DAO/security",
+        "euler-DAO/legacy-security",
         "euler-DAO/resources",
         "euler-DAO/faqs"
       ]
